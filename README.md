@@ -6,6 +6,14 @@ Generate SVG maps with customizable grid overlays for continents, countries, and
 
 Quick setup commands below - **CHECK GDAL FIRST**
 
+---
+
+Watch the video demonstration here: 
+
+
+
+[![Watch the video](https://img.youtube.com/vi/M7HVZWJV9Fg/0.jpg)](https://www.youtube.com/watch?v=M7HVZWJV9Fg)
+
 ## **Prerequisites**
 
 ### **Ensure GDAL is Installed**
@@ -135,4 +143,3 @@ python svgmap.py
 
 ## **License**
 MIT License
-```
