@@ -140,6 +140,8 @@ python svgmap.py
 ```
 
 ---
+This project uses Natural Earth's 1:110m Cultural Vectors. You can check it out [here](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/).
 
+---
 ## **License**
 MIT License
